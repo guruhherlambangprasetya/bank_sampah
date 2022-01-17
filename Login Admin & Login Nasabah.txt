@@ -1,0 +1,6 @@
+Link Administrator : http://localhost/bank_sampah/app/login.html
+- Username : admin
+- Password : admin
+
+
+Link Nasabah : http://localhost/bank_sampah/app/login_nasabah

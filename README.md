@@ -1,1 +1,1 @@
-# bank_sampah
+Bank Sampah adalah suatu tempat yang digunakan untuk mengumpulkan sampah yang sudah dipilah. Hasil dari pengumpulan sampah yang sudah pilah akan di setorkan ke tempat pembuatan kerajinan dari sampah atau ke tempat pengepul sampah. Bank Sampah dikelolamenggunakan sistem seperti perbankkan yang dilakukan oleh petugas sukarelawan. Penyetor adalah warga yang tinggal di sekitar lokasi bank serta mendapat buku tabungan seperti menabung di bank.
